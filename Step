@@ -1,0 +1,13 @@
+firstly create or launch a instances on AWS
+Step 2 : Installing Httpd software in Instances
+Step 3 :- Start the httpd server and check status
+Step 4 : Installing Database in Instance
+Step 5 ;- Installing PHP software
+Step 6:- Installing tar file of WordPress
+Step 7 :- Extracting Tar file
+Step 8:- Copying WordPress to html directory
+Step 9 :- Restarting httpd server
+Step 10 :- Creating MySQL Database
+If the wordpress not running properly then you have to copy code from error page and then paste them into the wp-config-file . It will run successfully . In my case i already solve the error so it was not there.
+
+Thanks you all ....
